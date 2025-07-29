@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:giuseppe.fsimioni@gmail.com">📧 Email</a> |
-  <a href="https://linktr.ee/giuseppeFerrariniSimioni">🌐 Linktree</a> |
+  <a href="https://linktr.ee/giuseppeFerrariniSimioni">🌐 Linktree</a>
 </p>
 
 ---
