@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giuseppe Ferrarini Simioni</h1>
-<h3 align="center">💻 Data Engineer | Full-Stack Developer /h3>
+<h3 align="center">💻 Data Engineer | Full-Stack Developer </h3>
 
 <p align="center">
   <a href="mailto:giuseppe.fsimioni@gmail.com">📧 Email</a> |
